@@ -1,3 +1,5 @@
+### Step 1: Install Wazuh Manager, Indexer, and Dashboard
+
 1. **Download and Run the Installation Script**
     - Run:
         
